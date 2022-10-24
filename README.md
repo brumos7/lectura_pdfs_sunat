@@ -47,3 +47,9 @@ Una vez puesto todo, al hacer run al script, se va a acceder a la solicitud de p
 
 
 
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 9cc2f79969649474fc9ebd13930075ab4e7f2fc7
